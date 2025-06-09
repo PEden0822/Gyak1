@@ -1,1 +1,1 @@
-# Gyak1
+# git-gyakorlat
